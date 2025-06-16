@@ -26,9 +26,6 @@ This project aims to analyze customer churn using data collected from a telecomm
 - **Churn Rate by Consumption**: This highlights the relationship between data usage and churn decisions.
 - **Churn Reasons**: This chart displays the main reasons for customer churn.
 
-## 🚀 Future Improvements
-- Add AI-based analysis to predict customer churn.
-- Enhance the model by including additional factors such as customer satisfaction or service ratings.
 
 ## 🙌 Contributors
 - [Abdullah Al-Khalileh]
