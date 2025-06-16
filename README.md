@@ -31,4 +31,4 @@ This project aims to analyze customer churn using data collected from a telecomm
 - Enhance the model by including additional factors such as customer satisfaction or service ratings.
 
 ## 🙌 Contributors
-- [Your Name]
+- [Abdullah Al-Khalileh]
